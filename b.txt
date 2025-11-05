@@ -5,8 +5,13 @@
   - app.js me import express kro 
   - app.use json 
   - app ko export krao
-  - listen the server (app ko listen index.js me) - [port is actually there]
+  - app ko imprt krao index.js me
+  - npm i dotenv
+  - port setup kro .env me
+  - dotenv import kro or config kro
+  - listen the server (app ko listen index.js me diye gye port par)
 3. running the server
   - go to package.json set type to module 
   - and, start setup kro ("start":"node index.js")
+  - npm run start
 
