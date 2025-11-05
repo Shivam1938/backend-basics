@@ -1,0 +1,11 @@
+1. backend project setup
+   - npm init -y
+2. server setup
+  - express
+  - .env - PORT
+  - middlewares - json 
+  - listen the server (app ko listen) - [port is actually there]
+3. running the server
+  - json file- start set
+  - //make sure to module in json package
+
