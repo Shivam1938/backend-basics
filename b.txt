@@ -5,7 +5,7 @@
   - app.js me import express kro 
   - app.use json 
   - app ko export krao
-  - app ko imprt krao index.js me
+  - app ko import krao index.js me
   - npm i dotenv
   - port setup kro .env me
   - dotenv import kro or config kro
